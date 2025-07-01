@@ -9,6 +9,7 @@ A list of awesome OpenAPI resources
 | Scalar Galaxy (JSON)   | https://cdn.jsdelivr.net/npm/@scalar/galaxy/dist/latest.json                               |
 | Scalar Galaxy (YAML)   | https://cdn.jsdelivr.net/npm/@scalar/galaxy/dist/latest.yaml                               |
 | Stripe                 | https://raw.githubusercontent.com/stripe/openapi/refs/heads/master/openapi/spec3.yaml      |
+| Storefront (3.1)       | https://beeceptor.com/docs/storefront-sample.yaml                                          |
 | Swagger Petstore (2.0) | https://petstore.swagger.io/v2/swagger.json                                                |
 | Swagger Petstore (3.0) | https://petstore3.swagger.io/api/v3/openapi.json                                           |
 | Swagger Petstore (3.1) | https://petstore31.swagger.io/api/v31/openapi.json                                         |
